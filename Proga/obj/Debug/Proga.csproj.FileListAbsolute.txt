@@ -1,0 +1,20 @@
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\bin\Debug\Proga.exe.config
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\bin\Debug\Proga.exe
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\bin\Debug\Proga.pdb
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Debug\Proga.csprojAssemblyReference.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Debug\Proga.Properties.Resources.resources
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Debug\Proga.csproj.GenerateResource.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Debug\Proga.csproj.CoreCompileInputs.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Debug\Proga.exe
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Debug\Proga.pdb
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Debug\Proga.Form1.resources
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\bin\Debug\Proga.exe.config
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\bin\Debug\Proga.exe
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\bin\Debug\Proga.pdb
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Debug\Proga.csprojAssemblyReference.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Debug\Proga.Form1.resources
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Debug\Proga.Properties.Resources.resources
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Debug\Proga.csproj.CoreCompileInputs.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Debug\Proga.exe
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Debug\Proga.pdb

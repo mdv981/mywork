@@ -1,0 +1,4 @@
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\2Тестирование ПО\programms\Вариант 3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\2Тестирование ПО\programms\Вариант 3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\bin\Release\Proga.exe.config
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\bin\Release\Proga.exe
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\bin\Release\Proga.pdb
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Release\Proga.Form1.resources
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Release\Proga.Properties.Resources.resources
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Release\Proga.csproj.GenerateResource.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Release\Proga.csproj.CoreCompileInputs.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Release\Proga.exe
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\Вариант 3\programm4\obj\Release\Proga.pdb
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\bin\Release\Proga.exe.config
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\bin\Release\Proga.exe
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\bin\Release\Proga.pdb
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Release\Proga.Form1.resources
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Release\Proga.Properties.Resources.resources
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Release\Proga.csproj.GenerateResource.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Release\Proga.csproj.CoreCompileInputs.cache
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Release\Proga.exe
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Release\Proga.pdb
+D:\Учеба\4курс\8семестр\Инженерия программного обеспечения\MyLab\ЗИЭ-401_Маслов_ДВ\Proga\obj\Release\Proga.csprojAssemblyReference.cache
